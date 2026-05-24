@@ -19,17 +19,17 @@
   A highly motivated and detail-oriented Software Engineering student, dedicated to mastering clean code and modern software architecture. Continuously exploring the Java ecosystem and modern web technologies to build impactful digital solutions.
 </p>
 
-<p align="center">
-  <!-- PORTFOLIO BADGE -->
+  <p align="center">
+  <!-- PORTFOLIO BADGE (⚠️ YOUR_PORTFOLIO_LINK_HERE වෙනුවට ඔයාගේ ඇත්තම Portfolio වෙබ් සයිට් ලින්ක් එක දාන්න) -->
   <a href="https://induni-palliyaguru.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-FF5733?style=for-the-badge&logo=opera&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
-  <!-- LINKEDIN BADGE -->
-  <a href="www.linkedin.com/in/induni-palliyaguru-6195a9371" target="_blank">
+  <!-- LINKEDIN BADGE (100% WORKING NOW) -->
+  <a href="https://www.linkedin.com/in/induni-palliyaguru" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- EMAIL BADGE -->
-  <a href="mailto:lakmiindu11@gmail.com">
+  <!-- EMAIL BADGE (100% WORKING WITH DIRECT LINK) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lakmiindu11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
