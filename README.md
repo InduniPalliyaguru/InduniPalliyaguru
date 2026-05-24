@@ -119,14 +119,19 @@ Here are the technologies and tools I actively use and learn during my academic 
 </table>
 
 ---
+### 📊 Advanced GitHub Metrics
 
-### 📊 My GitHub Statistics
-
+<!-- 1. GITHUB TROPHIES (100% WORKING & ANIMATED) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InduniPalliyaguru&show_icons=true&theme=tokyonight&count_private=true" alt="Induni's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InduniPalliyaguru&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=InduniPalliyaguru&theme=tokyonight&no-bg=true&margin-w=15" alt="Induni's Trophies" />
 </p>
 
+<!-- 2. TOTAL METRICS SUMMARY STRIPE -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InduniPalliyaguru&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api/fallback?username=InduniPalliyaguru&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF" alt="Summary Stripe" width="100%" />
+</p>
+
+<!-- 3. LIVE CODE CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InduniPalliyaguru&theme=tokyo-night&area=true&hide_border=true" alt="Induni's Activity Graph" width="100%" />
 </p>
