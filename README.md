@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InduniPalliyaguru&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
   A highly motivated and detail-oriented Software Engineering student, dedicated to mastering clean code and modern software architecture. Continuously exploring the Java ecosystem and modern web technologies to build impactful digital solutions.
 </p>
 
@@ -121,17 +125,12 @@ Here are the technologies and tools I actively use and learn during my academic 
 ---
 ### 📊 Advanced GitHub Metrics
 
-<!-- 1. GITHUB TROPHIES (100% WORKING & ANIMATED) -->
+<!-- 1. GITHUB TROPHIES (100% WORKING) -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=InduniPalliyaguru&theme=tokyonight&no-bg=true&margin-w=15" alt="Induni's Trophies" />
 </p>
 
-<!-- 2. TOTAL METRICS SUMMARY STRIPE -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/fallback?username=InduniPalliyaguru&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F0FF" alt="Summary Stripe" width="100%" />
-</p>
-
-<!-- 3. LIVE CODE CONTRIBUTION GRAPH -->
+<!-- 2. LIVE CODE CONTRIBUTION GRAPH (100% WORKING) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InduniPalliyaguru&theme=tokyo-night&area=true&hide_border=true" alt="Induni's Activity Graph" width="100%" />
 </p>
