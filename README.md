@@ -125,12 +125,22 @@ Here are the technologies and tools I actively use and learn during my academic 
 ---
 ### 📊 Advanced GitHub Metrics
 
-<!-- 1. GITHUB TROPHIES (100% WORKING) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InduniPalliyaguru&theme=tokyonight&no-bg=true&margin-w=15" alt="Induni's Trophies" />
-</p>
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InduniPalliyaguru&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=00000000" alt="Induni's Top Languages" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=InduniPalliyaguru&theme=tokyonight&hide_border=true&background=0d111700" alt="Induni's Animated Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- 2. LIVE CODE CONTRIBUTION GRAPH (100% WORKING) -->
+<br />
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InduniPalliyaguru&theme=tokyo-night&area=true&hide_border=true" alt="Induni's Activity Graph" width="100%" />
 </p>
+
