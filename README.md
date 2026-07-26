@@ -1,13 +1,12 @@
 <!-- CENTER ALIGNED HEADER BANNER -->
 <p align="center">
-  <!-- ⚠️ Canva එකෙන් හදලා Upload කරපු Image Link එක පල්ලෙහා තියෙන src="" එක ඇතුළට දාන්න -->
   <img src="https://github.com/InduniPalliyaguru/InduniPalliyaguru/blob/main/githubBanner.png?raw=true" alt="Induni's Banner" width="100%" />
 </p>
 
-<!-- TYPING ANIMATION FOR PROFESSIONAL LOOK -->
+<!-- HIGHLIGHTED ANIMATED HEADER (NEW DESIGN) -->
 <p align="center">
   <a href="https://github.com/InduniPalliyaguru">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Induni+Palliyaguru;Software+Engineering+Undergraduate;Building+Scalable+Applications;Passionate+About+Systems+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=500&color=00F0FF&vCenter=true&center=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Induni+Palliyaguru;Software+Engineering+Undergraduate;Building+Scalable+Applications;Passionate+About+Systems+Architecture" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,16 +18,16 @@
   A highly motivated and detail-oriented Software Engineering student, dedicated to mastering clean code and modern software architecture. Continuously exploring the Java ecosystem and modern web technologies to build impactful digital solutions.
 </p>
 
-  <p align="center">
-  <!-- PORTFOLIO BADGE (⚠️ YOUR_PORTFOLIO_LINK_HERE වෙනුවට ඔයාගේ ඇත්තම Portfolio වෙබ් සයිට් ලින්ක් එක දාන්න) -->
+<p align="center">
+  <!-- PORTFOLIO BADGE -->
   <a href="https://induni-palliyaguru.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
-  <!-- LINKEDIN BADGE (NOW 100% FIXED & WORKING WITH CORRECT USERNAME) -->
-<a href="https://www.linkedin.com/in/induni-palliyaguru-6195a9371" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-  <!-- EMAIL BADGE (100% WORKING WITH DIRECT LINK) -->
+  <!-- LINKEDIN BADGE -->
+  <a href="https://www.linkedin.com/in/induni-palliyaguru-6195a9371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- EMAIL BADGE -->
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lakmiindu11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -123,16 +122,19 @@ Here are the technologies and tools I actively use and learn during my academic 
 </table>
 
 ---
+
 ### 📊 Advanced GitHub Metrics
 
 <div align="center">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InduniPalliyaguru&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=00000000" alt="Induni's Top Languages" width="100%" />
+        <!-- FAST & WORKING TOP LANGUAGES -->
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=InduniPalliyaguru&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Induni's Top Languages" width="100%" />
       </td>
       <td width="50%" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=InduniPalliyaguru&theme=tokyonight&hide_border=true&background=0d111700" alt="Induni's Animated Streak" width="100%" />
+        <!-- WORKING STREAK STATS -->
+        <img src="https://streak-stats.demolab.com/?user=InduniPalliyaguru&theme=tokyonight&hide_border=true&background=0d111700" alt="Induni's Animated Streak" width="100%" />
       </td>
     </tr>
   </table>
@@ -143,4 +145,3 @@ Here are the technologies and tools I actively use and learn during my academic 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InduniPalliyaguru&theme=tokyo-night&area=true&hide_border=true" alt="Induni's Activity Graph" width="100%" />
 </p>
-
