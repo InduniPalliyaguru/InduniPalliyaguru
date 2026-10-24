@@ -143,5 +143,5 @@ Here are the technologies and tools I actively use and learn during my academic 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InduniPalliyaguru&theme=tokyo-night&area=true&hide_border=true" alt="Induni's Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InduniPalliyaguru&theme=tokyonight" alt="Induni's GitHub Profile Details" width="100%" />
 </p>
